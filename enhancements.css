@@ -5,7 +5,7 @@
     position: relative;
     overflow: hidden;
 }
-
+ 
 .hero::before {
     content: '';
     position: absolute;
